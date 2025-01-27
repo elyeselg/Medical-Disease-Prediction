@@ -1,4 +1,4 @@
-Medical Chronic Disease Prediction
+## Medical Chronic Disease Prediction
 
 
 This project aims to predict chronic diseases based on medical datasets containing both structured and clinical data. Using a combination of exploratory data analysis (EDA), feature engineering, and machine learning (Random Forest Classifier), the model predicts disease classifications with high accuracy. The project also includes model interpretation and modular design for maintainability and scalability.
